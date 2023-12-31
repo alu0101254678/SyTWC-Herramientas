@@ -1,0 +1,37 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Component Lifecycle Demo</title>
+</head>
+<body>
+
+  <!-- Incluye el script del Web Component -->
+  <script src="lifecycle-component.js" defer></script>
+
+  <!-- Usa el componente personalizado en el HTML -->
+  <lifecycle-component custom-attribute="initial-value"></lifecycle-component>
+
+  <!-- Puedes modificar el atributo personalizado después de adjuntar el componente al DOM -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const myComponent = document.querySelector('lifecycle-component');
+      
+      // Modifica el atributo personalizado después de un tiempo (simulando un cambio dinámico)
+      setTimeout(() => {
+        myComponent.setAttribute('custom-attribute', 'new-value'); // Usa setAttribute en lugar de asignación directa
+      }, 2000);
+    
+      // Después de un tiempo, desconecta el componente del DOM (simulando un cambio dinámico)
+      setTimeout(() => {
+        document.body.removeChild(myComponent);
+      }, 4000);
+    });
+    
+  </script>
+
+</body>
+</html>
