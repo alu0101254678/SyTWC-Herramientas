@@ -115,3 +115,15 @@ Puedes utilizar la herramienta: [CreateApp](https://createapp.dev/) como generad
 2. Instalar Yeoman y el generador de webapp(comandos: npm install -g yo, npm install -g generator-webapp)
 3. Ejecutamos yo en la terminal y seleccionamos la opción Run a generator -> webapp
 4. Completamos el asistente de Yeoman
+
+## Directorio Parcel
+
+1. Crear la estructura básica del proyecto
+2. Crear el fichero package.json
+3. Instalar la dependencia de parcel(comando: npm install parcel-bundler --save-dev)
+4. Crear el fichero index.html y rellenarlo con el código necesario
+5. Crear src y dentro los archivos necesarios
+6. Dentro del package.json tenemos dos scripts, que son los siguientes:
+    - "start": "parcel index.html",
+    - "build": "parcel build index.html"
+Con eso ya tendríamos todo listo para ejecutar el servidor de desarrollo y para generar el directorio dist con los archivos de producción.
