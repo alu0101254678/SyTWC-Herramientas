@@ -1,0 +1,186 @@
+{
+  "bienes": [
+    {
+      "nombre": "CASA ALVARADO BRACAMONTE",
+      "antecedentes": "El Capitán General de Tenerife don Diego de Alvarado Bracamonte edificó esta casa entre 1624 y 1631.",
+      "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/17_1_2021_0_49_40.png",
+      "localizacion": {
+        "lat": "28°29'21.2 N",
+        "long": "16°18'51.5 W"
+      }
+    },
+    {
+      "nombre": "CASA ALVAREZ DE ABREU",
+      "antecedentes": "La vivienda tiene un balcón y da esquina al callejón que conduce al sitio denominado “Juego de los Bolos”, perteneció a D.Santiago Álvarez de Abreu, veedor general de la gente de guerra.",
+      "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/19_1_2021_22_55_28.png",
+      "localizacion": {
+        "lat": "28°29'26.6 N",
+        "long": "16°19'12.7 W"
+      }
+    },
+    {
+      "nombre": "CASA ALONSO BRITO",
+      "antecedentes": "La Casa Alonso Brito es una de las más antiguas, de finales del siglo XVII, con una sencilla fachada en la calle San Agustín y un pequeño balcón muy rudimentario en la calle Viana.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/17_1_2021_0_49_40.png",
+      "localizacion": {
+        "lat": "28°29'21.2 N",
+        "long": "16°18'51.5 W"
+      }
+    },
+     {
+      "nombre": "CASA ANCHIETA",
+      "antecedentes": "El nombre de la casa responde a que en ella nació el Apostol de Brasil, el jesuíta Padre José de Anchieta, como recuerda una placa de marmol en su fachada.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/13_10_2017_18_11_45.jpg",
+      "localizacion": {
+        "lat": "28°29'13.5 N",
+        "long": "16°18'46.9 W"
+      }
+    },
+    {
+      "nombre": "AYUNTAMIENTO DE LA LAGUNA",
+      "antecedentes": "La fachada principal del Ayuntamiento con acceso desde la Plaza del Adelantado obedece a una reforma neoclásica realizada en 1822 y 1824 sobre el primitivo Cabildo, que había sido realizado en 1546, de estilo renacentista, con balcon central y entrada porticada, del cual se mantiene sólo un arco conopial, arcaísmo gótico en planta baja realizado en cantería roja.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/5_4_2020_19_22_52.jpg",
+      "localizacion": {
+        "lat": "28°29'14.1 N",
+        "long": "16°18'50.3 W"
+      }
+    },
+    {
+      "nombre": "CASA LA ALHONDIGA",
+      "antecedentes": "Se construyó a principios del siglo XVIII reinando Felipe V y siendo Corregidor Jose Antonio de Ayala, tal y como reza la inscripción de la portada.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/P4245218.jpg",
+      "localizacion": {
+        "lat": "28°29'14.7 N",
+        "long": "16°18'51.9 W"
+      }
+    },
+    {
+      "nombre": "ANTIGUO COLEGIO DOMINICAS",
+      "antecedentes": "Este edificio ubicado en la calle Consistorio Nº6, albergó el Colegio de las Madres Dominicas desde que el arquitecto Mariano Estanga lo construyó en 1912.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "S.XX y Posterior"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/DSC03401.jpg",
+      "localizacion": {
+        "lat": "28°29'14.3 N",
+        "long": "16°18'50.3 W"
+      }
+    },
+    {
+      "nombre": "CASA DEL CORREGIDOR",
+      "antecedentes": "Edificio con fachada a dos calles, cada uno de estilo diferente.Hacia la calle Obispo Rey Redondo (antigua Carrera) con una impronta tradicional y marcado caracter culto renacentista, de corte plateresco es conocida como Casa del Corregidor, mientras que hacia la calle Consistorio refleja un estilo neoclásico propio de la primera mitad del siglo  XIX, producto de la reforma sobre la primitiva fachada del antiguo Cabildo que presentaba un estilo renacentista. Esta última fachada es conocida como la sede principal del Ayuntamiento de La Laguna.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/19_7_2018_2_59_13.JPG",
+      "localizacion": {
+        "lat": "28°29'14.8 N",
+        "long": "16°18'51.8 W"
+      }
+    },
+    {
+      "nombre": "MUSEO DE LA CIENCIA Y EL COSMOS (MCC)",
+      "antecedentes": "El museo es obra del arquitecto Enric Sòria Badia, asociado con Jordi Garcés Brusés, en colaboración con Dolors Piulachs i Rafael Soto, y con un diseño museográfico de Enric Franch.",
+        "tipo": {
+        "arquitectura": "ARQUITECTURA CONTEMPORÁNEA",
+        "época": "Contemporánea"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/14_4_2019_19_13_32.jpg",
+      "localizacion": {
+        "lat": "28°28'32.3 N",
+        "long": "16°18'32.2 W"
+      }
+    },
+    {
+      "nombre": "CASA AVENIDA LUCAS VEGA ,100",
+      "antecedentes": "Según José B. González – Falcón, en su obra “Arquitectura antigua de la ciudad de San Cristóbal de la Laguna”. Es una casa típica de labranza, situada en el barrio de San Benito de los alrededores de La Laguna, construida posiblemente en el siglo XVIII.",
+        "tipo": {
+        "arquitectura": "ARQUITECTURA EN EL MEDIO RURAL",
+        "época": ""
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/24_1_2021_23_50_49.png",
+      "localizacion": {
+        "lat": "28°29'24.4 N",
+        "long": "16°19'37.3 W"
+      }
+    },
+    {
+      "nombre": "CASA BORGES-ESTÉVANEZ",
+      "antecedentes": "La Casa Borges-Estévanez fue construida entre 1733 y 1735 por un miembro de la familia Meade, ilustre linaje de ascendencia irlandesa uno de cuyos integrantes más destacados fue José Murphy y Meade1. Este destacado político tinerfeño consiguió la capitalidad del Archipiélago para Santa Cruz de Tenerife, debiendo pasar largas temporadas en esta residencia de campo.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/Foto2.JPG",
+      "localizacion": {
+        "lat": "28°28'27.0 N",
+        "long": "16°18'18.5 W"
+      }
+    },
+    {
+      "nombre": "CASA ALVAREZ DE ABREU",
+      "antecedentes": "En la Guía Histórico de La Laguna de José Rodríguez Moure, la vivienda tiene un balcón y da esquina al callejón que conduce al sitio denominado “Juego de los Bolos”, perteneció a D.Santiago Álvarez de Abreu, veedor general de la gente de guerra, y en el nacieron sus hijos el coronel Don Lázaro, que le sucedió en el cargo, y Don Miguel, Obispo de Antequera en Indias.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/19_1_2021_22_55_28.png",
+      "localizacion": {
+        "lat": "28°29'26.6 N",
+        "long": "16°19'12.7 W"
+      }
+    },
+    {
+      "nombre": "CASA GUERRA",
+      "antecedentes": "Ubicada en la calle Nava y Grimón tambien conocida como calle del Agua, esta casa fue construida sobre otra anterior por Fernando de la Guerra y Hoyo, Marqués de San Andrés, que vivió entrre 1734 y 1799.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/16_12_2019_21_19_21.jpg",
+      "localizacion": {
+        "lat": "28°29'20.3 N",
+        "long": "16°18'47.8 W"
+      }
+    },
+    {
+      "nombre": "CASA RIQUEL",
+      "antecedentes": "Mandada a construir por D.Antonio Riquel de Angulo (1721-1801), sufre una reforma de su fachada en 1940 por el entonces propietario D.Gabriel Colombo García.",
+        "tipo": {
+        "arquitectura": "CIVIL Y DOMÉSTICA",
+        "época": "Anterior al s. XX"
+      },
+      "img": "http://gestorpatrimoniocultural.cicop.com/imgFicha/DSC04177.jpg",
+      "localizacion": {
+        "lat": "28°29'17.2 N",
+        "long": ""
+      }
+    }
+  ]
+}
