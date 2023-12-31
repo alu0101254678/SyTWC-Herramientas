@@ -34,17 +34,23 @@ img {
 class BienPatrimonial extends HTMLElement {
   constructor() {
     super();
+    // Crea un shadow root para el componente
     this.attachShadow({ mode: 'open' });
+     // Añade la plantilla al shadow root
     this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 
+  // Define los atributos observados para el componente
   static get observedAttributes() {
     return ['data'];
   }
 
+  // Se llama cuando cambia un atributo observado
   attributeChangedCallback(name, oldValue, newValue) {
     if (name === 'data') {
+      // Parsea los datos del atributo y los usa para actualizar el componente
       const data = JSON.parse(newValue);
+      // Actualiza los elementos del componente con los datos
       this.shadowRoot.getElementById('nombre').textContent = data.nombre;
       this.shadowRoot.getElementById('antecedentes').textContent = data.antecedentes;
       this.shadowRoot.getElementById('tipo').textContent = `${data.tipo.arquitectura} - ${data.tipo.época}`;
