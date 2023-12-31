@@ -92,3 +92,26 @@ Puedes utilizar la herramienta: [CreateApp](https://createapp.dev/) como generad
   }
 }
 ```
+
+## Directorio Gulp
+
+1. Crear la estructura básica del proyecto
+2. Crear el fichero package.json
+3. Instalar gulp de forma global y local(comandos: npm install -g gulp-cli, npm install --save-dev gulp)
+4. Crear el fichero gulpfile.js y rellenarlo con las tareas que deseamos automatizar.
+5. Instalar los paquetes en forma de desarrollo necesarios para la actividad (paquetes: gulp-concat-css, gulp-minify-css, gulp-sourcemaps, gulp-imagemin, gulp-uglify, gulp-babel, gulp-sass, gulp-sass-glob, gulp-sass-lint, gulp-eslint, gulp-jshint, gulp-htmlmin, gulp-rename, gulp-gh-pages, browser-sync)
+6. Rellenar todo el código dentro de src.
+7. Ejecutar comandos gulp para rellenar directorio dist con archivos de producción (comandos: gulp --tasks,
+    - css
+    - sass
+    - js
+    - img
+    - watch)
+8. Con gulp watch se ejecutan las tareas de forma automática cuando se modifica un fichero y además crea el servidor de desarrollo con BrowserSync
+
+## Directorio Yeoman
+
+1. Crear un directorio simple con mkdir
+2. Instalar Yeoman y el generador de webapp(comandos: npm install -g yo, npm install -g generator-webapp)
+3. Ejecutamos yo en la terminal y seleccionamos la opción Run a generator -> webapp
+4. Completamos el asistente de Yeoman
