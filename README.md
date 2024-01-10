@@ -112,7 +112,7 @@ Puedes utilizar la herramienta: [CreateApp](https://createapp.dev/) como generad
 ## Directorio Yeoman
 
 1. Crear un directorio simple con mkdir
-2. Instalar Yeoman y el generador de webapp(comandos: npm install -g yo, npm install -g generator-webapp)
+2. Instalar Yeoman y el generador de webapp(comandos: npm install -g yo@4.3.1 generator-generator)
 3. Ejecutamos yo en la terminal y seleccionamos la opción Run a generator -> webapp
 4. Completamos el asistente de Yeoman
 
